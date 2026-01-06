@@ -1,4 +1,4 @@
-# Desarrollo de una Aplicación Móvil – Evaluación Cognitiva (ECC)
+# Aplicativo Movil de Evaluación Cognitiva: ECC
 
 ## 📖 Descripción del Proyecto
 Este proyecto consiste en el **desarrollo de una aplicación móvil orientada a la evaluación cognitiva**, diseñada para apoyar procesos de diagnóstico, seguimiento y estimulación de funciones cognitivas en usuarios. La aplicación busca ofrecer una herramienta accesible, intuitiva y confiable que permita a profesionales y estudiantes aplicar pruebas cognitivas de manera digital.
